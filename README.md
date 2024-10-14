@@ -6,14 +6,6 @@ I enjoy learning, experimenting, and working on projects that challenge my skill
 
 ---
 
-## 🖼️ Technology at the Core
-
-![Technology](https://via.placeholder.com/800x400.png?text=Technology+and+Innovation)  
-*(You can replace this placeholder image with any tech-related image)*
-
----
----
-
 ## 🛠️ Technologies & Tools
 
 Here are some of the technologies I work with:
