@@ -32,7 +32,7 @@ I am constantly improving my skills and exploring new tools. Right now, I am div
 ## 📫 Get in Touch
 
 - Email: [andrikalema@gmail.com](mailto:andrikalema@gmail.com)
-- LinkedIn: [AndrikAleman](www.linkedin.com/in/andrik-alemán-santiago-67498720b)
+- LinkedIn: [AndrikAleman](https://linkedin.com/in/andrik-alemán-santiago-67498720b)
 
 ---
 
