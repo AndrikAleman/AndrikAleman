@@ -26,6 +26,7 @@ Additionally, I have knowledge in **networking** with:
 I am constantly improving my skills and exploring new tools. Right now, I am diving deeper into:
 
 - **Docker for containerized applications**
+- **Spring JPA**
 
 ---
 
