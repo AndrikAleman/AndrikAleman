@@ -1,55 +1,61 @@
-# 👋 Hello, I'm Andrik Aleman!
+👋 Hello, I'm Andrik Aleman!
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=IT+Engineering+Student;Backend+Developer;System+Design+Enthusiast" alt="Typing SVG" />
+</div>
+🚀 About Me
+I am a passionate IT Engineering student with a deep interest in backend development and system design. My focus is on building efficient, scalable, and secure web applications using modern technologies.
+I enjoy learning, experimenting, and working on projects that challenge my skills and broaden my knowledge. I am always excited to collaborate on interesting projects and explore new technologies!
+🛠️ Technologies & Tools
+Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript" alt="Programming Languages" />
+</p>
+Backend & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,flask,fastapi,nodejs,express" alt="Backend Technologies" />
+</p>
+Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,oracle,sqlite" alt="Databases" />
+</p>
+DevOps & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,git,github,gitlab" alt="DevOps and Cloud" />
+</p>
+Networking Certifications
 
-Welcome to my GitHub profile! I am a **passionate IT Engineering student** with a deep interest in **backend development** and **system design**. My focus is on building efficient, scalable, and secure web applications using modern technologies.
+CCNAv7: Switching, Routing, and Wireless Essentials
 
-I enjoy learning, experimenting, and working on projects that challenge my skills and broaden my knowledge. I am always excited to collaborate on interesting projects and explore new technologies. Feel free to reach out!
+🌱 Currently Learning
 
----
+Docker for containerized applications
+Spring JPA
+Microservices Architecture
 
-## 🛠️ Technologies & Tools
+📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andrik-ops&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrik-ops&theme=radical" alt="GitHub Streak" />
+</p>
+Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrik-ops&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+📫 Get in Touch
+<p align="center">
+  <a href="mailto:andrikalema@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/andrik-alemán-santiago-67498720b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/andrik-ops">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+🏆 Profile Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=andrik-ops&theme=radical&column=4" alt="GitHub Trophy" />
+</p>
+Thanks for visiting! I look forward to connecting and collaborating with you! 🤝
 
-Here are some of the technologies I work with:
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-Additionally, I have knowledge in **networking** with:
-
-- **CCNAv7: Switching, Routing, and Wireless Essentials**
----
-
-## 🌱 Currently Learning
-
-I am constantly improving my skills and exploring new tools. Right now, I am diving deeper into:
-
-- **Docker for containerized applications**
-- **Spring JPA**
-
----
-
-## 📫 Get in Touch
-
-- Email: [andrikalema@gmail.com](mailto:andrikalema@gmail.com)
-- LinkedIn: [AndrikAleman](https://linkedin.com/in/andrik-alemán-santiago-67498720b)
-
----
-
-Thanks for visiting! I look forward to connecting and collaborating with you!
-
-<!--
-**AndrikAleman/AndrikAleman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
