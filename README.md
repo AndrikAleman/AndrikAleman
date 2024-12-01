@@ -24,7 +24,7 @@ Backend & Frameworks
 </p>
 Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,oracle" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,oracle" alt="Databases" />
 </p>
 DevOps & Cloud
 <p align="center">
