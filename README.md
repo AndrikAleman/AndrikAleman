@@ -1,30 +1,35 @@
 👋 Hello, I'm Andrik Aleman!
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=IT+Engineering+Student;Backend+Developer;System+Design+Enthusiast" alt="Typing SVG" />
 </div>
+
 🚀 About Me
 I am a passionate IT Engineering student with a deep interest in backend development and system design. My focus is on building efficient, scalable, and secure web applications using modern technologies.
 I enjoy learning, experimenting, and working on projects that challenge my skills and broaden my knowledge. I am always excited to collaborate on interesting projects and explore new technologies!
+
 🛠️ Technologies & Tools
 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" alt="Programming Languages" />
 </p>
 Backend & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,flask,fastapi,nodejs,express" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=spring" alt="Backend Technologies" />
 </p>
 Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,oracle,sqlite" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,oracle" alt="Databases" />
 </p>
 DevOps & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,git,github,gitlab" alt="DevOps and Cloud" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab" alt="DevOps" />
 </p>
+
 Networking Certifications
 
 CCNAv7: Switching, Routing, and Wireless Essentials
+
 
 🌱 Currently Learning
 
