@@ -68,9 +68,6 @@ Top Languages
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-🏆 Profile Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AndrikAleman&theme=radical&column=4" alt="GitHub Trophy" />
-</p>
+
 Thanks for visiting! I look forward to connecting and collaborating with you! 🤝
 
